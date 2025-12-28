@@ -4,15 +4,11 @@
   <h3 align="center">Software Engineering Student | AI & Backend Enthusiast</h3>
   
   <p align="center">
-    <a href="https://github.com/Mohamed-Amine-Dhuibi?tab=repositories">
-      <img src="https://img.shields.io/badge/Check%20out-My%20Work-blue?style=for-the-badge&logo=github" alt="My Work" />
+    <a href="mailto:dhuibimohamedamine@gmail.com">
+      <img src="https://img.shields.io/badge/Email-dhuibimohamedamine%40gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Contact-Me-green?style=for-the-badge&logo=gmail" alt="Contact Me" />
-    </a>
-    <!-- Add your LinkedIn URL below -->
-    <a href="https://linkedin.com/in/your-linkedin-handle">
-      <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <a href="https://wa.me/21628026852">
+      <img src="https://img.shields.io/badge/WhatsApp-%2B216%2028%20026%20852-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </p>
 </div>
@@ -21,7 +17,7 @@
 
 ### 🚀 About Me
 
-I am a **Software Engineering Student** passionate about building robust systems and intelligent applications. My unique strength lies in the intersection of **Data Science/AI** and **Web Development**. 
+I am a **Software Engineering Student** passionate about building robust systems and intelligent applications. My unique strength lies in the intersection of **Data Science/AI** and **Web Development**.
 
 I don't just build models; I work on deploying them. I am actively transitioning into **MLOps** and **DevOps**, focusing on how to serve AI models efficiently within scalable Backend architectures.
 
@@ -37,8 +33,8 @@ I don't just build models; I work on deploying them. I am actively transitioning
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
 **Data Science & AI**
@@ -75,21 +71,6 @@ Most of my commercial work involves complex backend systems and AI integrations 
 | **[G_scheduler](https://github.com/Mohamed-Amine-Dhuibi/G_scheduler)** | A Python-based scheduling automation tool. | Python |
 | **[devsyncer](https://github.com/Mohamed-Amine-Dhuibi/devsyncer)** | Synchronization tool for development environments. | PHP |
 | **[e-learning-laravel](https://github.com/Mohamed-Amine-Dhuibi/e-learning-laravel)** | An e-learning platform architecture. | Laravel, JS |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Amine-Dhuibi&show_icons=true&theme=radical&count_private=true" alt="Mohamed-Amine-Dhuibi's Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Amine-Dhuibi&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="180"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Amine-Dhuibi&theme=radical" alt="GitHub Streak" />
-</div>
 
 ---
 
